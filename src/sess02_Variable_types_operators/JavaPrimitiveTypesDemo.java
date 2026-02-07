@@ -3,7 +3,7 @@ package sess02_Variable_types_operators;
 /**
  * java program to demonstrate the 8 java primitive data types, their sizes
 *in bytes,  default values and minimum/maximum values  values for numeric types.
- *
+ * 
  * @author pc
  */
 public class JavaPrimitiveTypesDemo
